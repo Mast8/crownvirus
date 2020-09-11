@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crownvirus/static/css/main.6c382273.chunk.css",
+    "main.js": "/crownvirus/static/js/main.f86194b4.chunk.js",
+    "main.js.map": "/crownvirus/static/js/main.f86194b4.chunk.js.map",
+    "runtime-main.js": "/crownvirus/static/js/runtime-main.647fa69a.js",
+    "runtime-main.js.map": "/crownvirus/static/js/runtime-main.647fa69a.js.map",
+    "static/js/2.708667fa.chunk.js": "/crownvirus/static/js/2.708667fa.chunk.js",
+    "static/js/2.708667fa.chunk.js.map": "/crownvirus/static/js/2.708667fa.chunk.js.map",
+    "index.html": "/crownvirus/index.html",
+    "precache-manifest.b957d47d82990a6fc10b0531e5009f61.js": "/crownvirus/precache-manifest.b957d47d82990a6fc10b0531e5009f61.js",
+    "service-worker.js": "/crownvirus/service-worker.js",
+    "static/css/main.6c382273.chunk.css.map": "/crownvirus/static/css/main.6c382273.chunk.css.map",
+    "static/js/2.708667fa.chunk.js.LICENSE.txt": "/crownvirus/static/js/2.708667fa.chunk.js.LICENSE.txt",
+    "static/media/corona.png": "/crownvirus/static/media/corona.ff9e669e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.647fa69a.js",
+    "static/js/2.708667fa.chunk.js",
+    "static/css/main.6c382273.chunk.css",
+    "static/js/main.f86194b4.chunk.js"
+  ]
+}
