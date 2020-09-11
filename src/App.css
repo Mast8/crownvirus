@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(250, 250,250);
+  /* background-image: url('./images/covid.jfif') ;
+  background-repeat: no-repeat;
+  width: 100%; */
+  /* background-size:contain; */
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+ 
+}
+
+.image {
+  border: 2rem;
+  /* width: 370px; */
+  /* border-radius: 20px; */
+}
+
+
+
+@media only screen and (max-width: 770px) {
+  .container {
+    margin: 0 10%;
+  }
+
+  .image {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media only screen and (min-width: 771px) {
+  .container {
+    margin: 0 10%;
+  }
+
+  .image {
+    width: 100%;
+    height: auto;
+  }
+}
